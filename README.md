@@ -7,7 +7,9 @@ Acquisition new customers costs 5 times more than retaining old customers, so ma
 <b>Acknowledgements</b>
 
 Dataset used in this project is part of Vietnam Airline Customer transaction dataset which I extract and cannot leak customer's infomation so I only take the card number, the day transaction and the money).
+
 Where I read about the idea of [CLV and RFM](https://www.stacktome.com/blog/diving-deeper-into-customer-segmentation-rfm-and-clv#how-can-rfm-segmentation-increase-customer-value-and-loyalty)
+
 [Buy Til You Die Model](https://towardsdatascience.com/customer-behavior-modeling-buy-til-you-die-models-6f9580e38cf4) - a probabily model can predict CLV, different than other ML model that I know before.
 
 
